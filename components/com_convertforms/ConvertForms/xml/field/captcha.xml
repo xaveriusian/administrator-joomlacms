@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <fieldset name="basic">
+	    <field name="placeholder" type="text"
+	    	label="COM_CONVERTFORMS_PLACEHOLDER_NAME"
+	    	description="COM_CONVERTFORMS_PLACEHOLDER_NAME_DESC"
+            default="Type in the result of the equation"
+	    />
+	    <field name="wrong_answer_text" type="text"
+	    	label="COM_CONVERTFORMS_FIELD_CAPTCHA_WRONG_ANSWER"
+	    	description="COM_CONVERTFORMS_FIELD_CAPTCHA_WRONG_ANSWER_DESC"
+            default="Wrong answer!"
+	    />
+    </fieldset>
+</form>

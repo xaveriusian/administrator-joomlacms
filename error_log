@@ -1,0 +1,2 @@
+[04-Apr-2023 15:30:58 UTC] PHP Fatal error:  Trait "Joomla\CMS\Application\MultiFactorAuthenticationHandler" not found in /home/bakrieac/library.bakrie.ac.id/libraries/src/Application/AdministratorApplication.php on line 35
+[04-Apr-2023 15:31:51 UTC] PHP Fatal error:  Trait "Joomla\CMS\Application\MultiFactorAuthenticationHandler" not found in /home/bakrieac/library.bakrie.ac.id/libraries/src/Application/AdministratorApplication.php on line 35
